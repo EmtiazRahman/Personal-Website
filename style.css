@@ -57,15 +57,42 @@ section{
     
 }
 
+.Half{
+    width: 30%;
+    float:left;
+    margin-left: 5%;
+    margin-top: 5%;
+  
+}
 .Half-widh img{
     width: 30%;
         float: left;
      
      margin-left: 10%;
     }
-    .Half{
-        float: right;
-       
-        
-        margin-top: 2%;
-    }
+section{
+    padding-bottom: 0cqmin;
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(230, 117, 117), pink);
+    border-radius: 7%;
+    font-weight: 700;
+    padding: 10px;
+    color: white;
+}
+.title{
+    margin-bottom: 5%;
+    text-align: center;
+    margin-top: 8%
+    
+   
+}
+.img-1 img{
+    padding-top: 1%;
+    padding-left: 10%;
+    width: 25%;
+    
+    
+ 
+}
