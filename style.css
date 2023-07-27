@@ -88,11 +88,25 @@ section{
     
    
 }
+
 .img-1 img{
-    padding-top: 1%;
-    padding-left: 10%;
+    float: left;
     width: 25%;
+    padding-left: 10%;
+
+}
+.img-2 img{
+    float:left;
+width: 25%;
+padding-left: 3%;
+}
+.img-3 img{
+    float: right;
+    width: 25%;
+    padding-right: 10%;
+}
+.client{
+    text-align: center;
+    margin-top: 10%;
     
-    
- 
 }
