@@ -106,7 +106,17 @@ padding-left: 3%;
     padding-right: 10%;
 }
 .client{
-    text-align: center;
-    margin-top: 10%;
     
+    text-align: center;
+    margin-top: 37%;
+}
+.para{
+   
+    text-align: center;
+    margin-top: 7%;
+    
+}
+.para p{
+    color: rgba(0, 0, 0, 0.51);
+   
 }
