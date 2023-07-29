@@ -120,3 +120,34 @@ padding-left: 3%;
     color: rgba(0, 0, 0, 0.51);
    
 }
+.txt h3{
+    text-align: center;
+    margin-top: 4%;
+    font-weight:450;
+}
+.box{
+
+    
+    margin-top: 10%;
+    text-align: center;
+    background-image:linear-gradient(135deg, rgb(244, 61, 119),rgb(230, 13, 82));
+    
+    padding: 10px;
+    background-size: 50%;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    
+}
+.mail{
+    color: white;
+    text-decoration: none;
+    border-radius: 20%;
+}
+.last{
+    text-align: center;
+    margin-top: 15%;
+    font-size: smaller;
+    color: rgba(38, 37, 37, 0.773);
+}
